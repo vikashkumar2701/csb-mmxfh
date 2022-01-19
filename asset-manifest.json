@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vikashkumar2701.github.io/csb-mmxfh/static/css/main.1e7867ea.chunk.css",
+    "main.js": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/main.575f6fed.chunk.js",
+    "main.js.map": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/main.575f6fed.chunk.js.map",
+    "runtime-main.js": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/runtime-main.d454b1f8.js",
+    "runtime-main.js.map": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/runtime-main.d454b1f8.js.map",
+    "static/js/2.1e0b54ab.chunk.js": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/2.1e0b54ab.chunk.js",
+    "static/js/2.1e0b54ab.chunk.js.map": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/2.1e0b54ab.chunk.js.map",
+    "index.html": "https://vikashkumar2701.github.io/csb-mmxfh/index.html",
+    "static/css/main.1e7867ea.chunk.css.map": "https://vikashkumar2701.github.io/csb-mmxfh/static/css/main.1e7867ea.chunk.css.map",
+    "static/js/2.1e0b54ab.chunk.js.LICENSE.txt": "https://vikashkumar2701.github.io/csb-mmxfh/static/js/2.1e0b54ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d454b1f8.js",
+    "static/js/2.1e0b54ab.chunk.js",
+    "static/css/main.1e7867ea.chunk.css",
+    "static/js/main.575f6fed.chunk.js"
+  ]
+}
